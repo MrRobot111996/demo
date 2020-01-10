@@ -1,0 +1,4 @@
+*.log          
+#It'll Ignore all Log FIles
+*.exe
+#It'll Ignore all exe FIles.
